@@ -1,2 +1,2 @@
 # python-python-vm
-Simple python vm written on python :)
+Python VM written in python itself :)
